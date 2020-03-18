@@ -1,4 +1,4 @@
-Python==3.6.10
+Python==3.7.10
 TensorFlow==1.15.2
 Tflearn==0.3.2
 Keras==2.3.1
