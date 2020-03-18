@@ -1,8 +1,8 @@
-Python==3.7.4
-TensorFlow==1.13.2
+Python==3.6.10
+TensorFlow==1.15.2
 Tflearn==0.3.2
 Keras==2.3.1
 Numpy==1.18.1
-nltk==3.4.4
+nltk==3.4.5
 pickle-mixin==1.0.2
 random2==1.0.1
